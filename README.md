@@ -50,14 +50,14 @@ The available data contains the following attributes:
 * BarService - Satisfaction level of customer regarding bar service (0 to 5)
 
 ## Predictive Models
-The predictive models tested in this model where:
+The predictive models tested in this project were:
 * Logistic Regression
 * Random Forest Classifier
 * KNN Classifier
 * Decision Tree Classifier
 * Neural Network (MLP) Classifier
 * Gradient Boosting Classifier
-According to the obtained results for each model, the best model is either Random Forest Classifier or Gradient Bossting Classifier.
+According to the obtained results for each model, the best model is either Random Forest Classifier or Gradient Bossting Classifier. For the delivery report, the chosen model was the Random Forest Classifier.
 
 ## Project Status
 Finished.
