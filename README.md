@@ -26,28 +26,28 @@ on the training set. The predicted values in the test set should be submitted
 on Kaggle. The score of your predictions will be evaluated using the F1 Score.
 
 The available data contains the following attributes:
-Cust ID - Customer’s identification number
-Name - Customer’s name
-Year Birth - Customer’s birth year
-Longevity - Whether the customer registered more than 1 year ago or not (yes or no)
-Churn - Whether the customer churned or not (churn - 1; or nochurn - 0)
-TypeTravel - Customer’s reason for travelling (business or leisure)
-RoomType - Type of room reserved
-RewardPoints - Customer’s rewarding point for loyalty
-Comfort - Satisfaction level of customer regarding comfort of the room (0 to 5)
-ReceptionSchedule - Satisfaction level of customer regarding reception schedule (0 to 5)
-FoodDrink - Satisfaction level of customer regarding food and drink available (0 to 5)
-Location - Satisfaction level of customer regarding accommodation location (0 to 5)
-Wifi - Satisfaction level of customer regarding wi-fi service (0 to 5)
-Amenities - Satisfaction level of customer regarding accommodation amenities (0 to 5)
-Staff - Satisfaction level of customer regarding staff (0 to 5)
-OnlineBooking - Satisfaction level of customer regarding online booking ease (0 to 5)
-PriceQuality - Satisfaction level of customer regarding price quality relationship (0 to 5)
-RoomSpace - Satisfaction level of customer regarding room space (0 to 5)
-CheckOut - Satisfaction level of customer regarding check-out (0 to 5)
-CheckIn - Satisfaction level of customer regarding check-in (0 to 5)
-Cleanliness - Satisfaction level of customer regarding cleanliness (0 to 5)
-BarService - Satisfaction level of customer regarding bar service (0 to 5)
+* Cust ID - Customer’s identification number
+* Name - Customer’s name
+* Year Birth - Customer’s birth year
+* Longevity - Whether the customer registered more than 1 year ago or not (yes or no)
+* Churn - Whether the customer churned or not (churn - 1; or nochurn - 0)
+* TypeTravel - Customer’s reason for travelling (business or leisure)
+* RoomType - Type of room reserved
+* RewardPoints - Customer’s rewarding point for loyalty
+* Comfort - Satisfaction level of customer regarding comfort of the room (0 to 5)
+* ReceptionSchedule - Satisfaction level of customer regarding reception schedule (0 to 5)
+* FoodDrink - Satisfaction level of customer regarding food and drink available (0 to 5)
+* Location - Satisfaction level of customer regarding accommodation location (0 to 5)
+* Wifi - Satisfaction level of customer regarding wi-fi service (0 to 5)
+* Amenities - Satisfaction level of customer regarding accommodation amenities (0 to 5)
+* Staff - Satisfaction level of customer regarding staff (0 to 5)
+* OnlineBooking - Satisfaction level of customer regarding online booking ease (0 to 5)
+* PriceQuality - Satisfaction level of customer regarding price quality relationship (0 to 5)
+* RoomSpace - Satisfaction level of customer regarding room space (0 to 5)
+* CheckOut - Satisfaction level of customer regarding check-out (0 to 5)
+* CheckIn - Satisfaction level of customer regarding check-in (0 to 5)
+* Cleanliness - Satisfaction level of customer regarding cleanliness (0 to 5)
+* BarService - Satisfaction level of customer regarding bar service (0 to 5)
 
 ## Predictive Models
 The predictive models tested in this model where:
