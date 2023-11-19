@@ -6,10 +6,10 @@ A scale of 0 to 5 is used to rate multiple aspects of the services, in this way,
 Focused in detecting possible churn situations, BookMe hired a team of data scientists (your group) to analyze the behavior and satisfaction of their customers and to predict which customers have a high probability of churn depending on their behavior/satisfaction.
 
 ## Table of Contents
-* [Project Objectives] (#Project-Objectives)
-* [Dataset] (#dataset)
-* [Predictive Models] (#predictive-models)
-* [Project Status] (#project-status)
+* Project Objectives
+* Dataset
+* Predictive Models
+* Project Status
 
 ## Project Objectives
 The goal of this project was to build a predictive model that answers the question “Which customers are more likely to churn?” using the small quantity of data accessible from the customers database that contains general information about the customers behaviour and their satisfaction. The chosen predictive models must be from scikit-learn package.
